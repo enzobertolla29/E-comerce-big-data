@@ -1,0 +1,9 @@
+accessed_date,duration_(secs),network_protocol,ip,bytes,accessed_Ffom,age,gender,country,membership,language,sales,returned,returned_amount,pay_method,timestamp,ano,mes,dia,hora
+2017-03-14 17:43:57.172,2533,TCP  ,1.10.195.126,20100,Chrome,28,Female,CA,Normal,English,261.96,No,0.0,Credit Card,2017-03-14 17:43:57.172,2017,3,14,17
+2017-03-14 17:43:57.172,4034,TCP  ,1.1.217.211,20500,Mozilla Firefox,21,Male,AR,Normal,English,731.94,No,0.0,Debit Card,2017-03-14 17:43:57.172,2017,3,14,17
+2017-03-14 17:43:26.135,1525,TCP  ,1.115.198.107,90100,Mozilla Firefox,20,Male,PL,Normal,English,14.62,No,0.0,Cash,2017-03-14 17:43:26.135,2017,3,14,17
+2017-03-14 17:43:26.135,4572,TCP  ,1.121.152.143,100300,Mozilla Firefox,66,Female,IN,Normal,Spanish,957.5775,No,0.0,Credit Card,2017-03-14 17:43:26.135,2017,3,14,17
+2017-03-14 17:44:10.042,4464,TCP  ,1.128.97.122,640800,Chrome,67,Female,IN,Normal,Spanish,15.552,No,0.0,Debit Card,2017-03-14 17:44:10.042,2017,3,14,17
+2017-03-14 17:44:10.042,2307,ICMP ,1.129.96.120,90800,Chrome,25,Male,IN,Normal,Spanish,407.976,No,0.0,Cash,2017-03-14 17:44:10.042,2017,3,14,17
+2017-03-14 17:43:39.011,2440,TCP  ,1.129.96.21,330000,Chrome,67,Female,US,Normal,Spanish,68.81,No,0.0,Credit Card,2017-03-14 17:43:39.011,2017,3,14,17
+2017-03-14 17:43:39.011,4716,TCP  ,1.129.96.252,50800,Chrome,24,Male,NO,Normal,English,2.544,No,0.0,Credit Card,2017-03-14 17:43:39.011,2017,3,14,17

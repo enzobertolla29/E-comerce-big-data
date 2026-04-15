@@ -1,0 +1,5 @@
+accessed_date,duration_(secs),network_protocol,ip,bytes,accessed_Ffom,age,gender,country,membership,language,sales,returned,returned_amount,pay_method,timestamp,ano,mes,dia,hora
+2017-03-14 19:46:37.327,2090,TCP  ,1.124.48.99,310900,Mozilla Firefox,49,Female,CN,Normal,English,0.0,Yes,957.5775,Cash,2017-03-14 19:46:37.327,2017,3,14,19
+2017-03-14 19:46:37.327,2793,TCP  ,1.126.48.118,10700,Mozilla Firefox,32,Female,AT,Normal,English,907.152,No,0.0,Credit Card,2017-03-14 19:46:37.327,2017,3,14,19
+2017-03-14 19:02:42.704,3396,TCP  ,1.126.48.171,250200,Mozilla Firefox,69,Male,US,Normal,Spanish,18.504,No,0.0,Others,2017-03-14 19:02:42.704,2017,3,14,19
+2017-03-14 19:02:42.704,2064,TCP  ,1.126.48.47,20600,Mozilla Firefox,60,Female,CA,Normal,Spanish,114.9,No,0.0,Credit Card,2017-03-14 19:02:42.704,2017,3,14,19

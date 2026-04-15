@@ -1,0 +1,3 @@
+accessed_date,duration_(secs),network_protocol,ip,bytes,accessed_Ffom,age,gender,country,membership,language,sales,returned,returned_amount,pay_method,timestamp,ano,mes,dia,hora
+2017-03-14 20:17:17.014,3288,TCP  ,1.128.96.235,520500,Mozilla Firefox,36,Female,SE,Normal,English,1706.184,No,0.0,Cash,2017-03-14 20:17:17.014,2017,3,14,20
+2017-03-14 20:17:17.014,2973,TCP  ,1.128.96.30,30500,Android App,29,Female,CH,Normal,Chinese,911.424,No,0.0,Credit Card,2017-03-14 20:17:17.014,2017,3,14,20
