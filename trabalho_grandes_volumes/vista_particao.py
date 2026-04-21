@@ -63,7 +63,7 @@ for arquivo in glob.glob("dados_particionados/**/*.csv", recursive=True):
     )
     resultados_vista3_vendas.append(add_particao(v3_vendas))
 
-    v3_acessos = (
+    v3_acessos = ( 
         df.groupby("hour")
         .agg(total_acessos=("accessed_date", "count"))
         .reset_index()

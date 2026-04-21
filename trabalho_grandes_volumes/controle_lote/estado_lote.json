@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "files": {
+    "E-commerce Website Logs.csv": {
+      "last_status": "completed",
+      "last_run_id": "0f36631c85ff4c7f9d7ec03460af0805",
+      "last_started_at": "2026-04-21T15:07:11",
+      "source": {
+        "size": 19310061,
+        "mtime": 1776338652
+      },
+      "output_dir": "dados_particionados",
+      "last_completed_at": "2026-04-21T15:07:15",
+      "rows_total": 172838,
+      "rows_quarantined": 0,
+      "rows_written": 172838,
+      "partitions_written": 172,
+      "processing_version": 2,
+      "rows_quarantined_total": 72184,
+      "rows_quarantined_blocking": 0,
+      "rows_quarantined_accessed_date_invalid": 0,
+      "rows_quarantined_gender_unknown_logged_in": 0,
+      "rows_quarantined_age_missing_after_cutoff": 72184
+    }
+  }
+}
