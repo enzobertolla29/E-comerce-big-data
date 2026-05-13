@@ -1,0 +1,4 @@
+data_corte=2017-03-21T09:37:41.654000
+registros_novos=17283
+registros_lote=155555
+colunas=accessed_date,duration_(secs),network_protocol,ip,bytes,accessed_Ffom,age,gender,country,membership,language,sales,returned,returned_amount,pay_method
